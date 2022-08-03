@@ -75,7 +75,7 @@ color: white;
 
 
 .backup {
-font-size: 25px;
+font-size: 40px;
 color: white;
   padding: 10px 20px;
   text-align: center;
@@ -116,7 +116,7 @@ color: white;
 
 
 .web {
-font-size: 30px;
+font-size: 40px;
 color: white;
   padding: 10px 20px;
   text-align: center;
@@ -287,4 +287,14 @@ w@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,
 
 body {
   overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.hub {
+font-size: 50px;
+color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
 }
