@@ -414,3 +414,40 @@ color: white;
   display: inline-block;
   
 }
+
+
+.cross {
+font-size: 50px;
+color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  
+}
+
+
+.physics {
+
+font-size: 50px;
+color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  
+}
+
+.boss {
+font-size: 50px;
+color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+
+  
+}
